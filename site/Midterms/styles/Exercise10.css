@@ -1,0 +1,59 @@
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+    margin: 20px;
+    border: 2pt #2e4053 solid;
+}
+div.a {
+    text-indent: 50px;
+    background-image: url(/Midterms/imgs/backgroundOP.jpg);
+    background-size: 900px 600px;
+    background-repeat: no-repeat;
+}
+div.b {
+    text-indent: 50px;
+    background-image: url(/Midterms/imgs/backgroundBleach.jpg);
+    background-size: 900px 400px;
+    background-repeat: no-repeat;
+}
+div.c {
+    text-indent: 50px;
+    background-image: url(/Midterms/imgs/CODbg.jpg);
+    background-size: 900px 500px;
+    background-repeat: no-repeat;
+}
+li{
+    display: inline-block;
+    width: 150px;
+    background-color: coral;
+    text-align: center;
+    padding: 3px;
+    border-radius: 7px;
+    border: 2pt #2e4053 solid;
+}
+article, footer, .sec {
+    width: 900px;
+    height: 200px max-content;
+    border: 1pt #2e4053 solid;
+}
+header, nav{
+    width: 900px;
+    height: 200px;
+    border: 1pt #2e4053 solid;
+}
+a:hover{
+    color: rgb(236, 49, 35);
+}
+a, a:active{
+    text-decoration: none;
+    color: #424949;
+}
+#sectionContent{
+    float:left;
+    height: max-content;
+    width:max-content;
+    margin-left: 20px;
+}
